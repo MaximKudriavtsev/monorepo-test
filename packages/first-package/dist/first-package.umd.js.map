@@ -1,1 +1,0 @@
-{"version":3,"file":"first-package.umd.js","sources":["../src/first-component.jsx"],"sourcesContent":["import * as React from 'react';\n\nexport const FirstComponent = props => <div {...props} />;"],"names":["FirstComponent","props","React.createElement"],"mappings":";;;;;;;;KAEaA,cAAc,GAAG,SAAjBA,cAAiB,CAAAC,KAAK;CAAA,SAAIC,2BAASD,KAAT,CAAJ;CAAA,CAA5B;;;;;;;;;;;;"}
